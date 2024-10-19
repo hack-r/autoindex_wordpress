@@ -27,5 +27,3 @@ This script automates the submission of WordPress URLs to the IndexNow API for m
 
 ## Future Plans:
 - For now, this script covers everything I need, but I may add more features later.
-
-(c) 2023-2024 Jason Miller. All Rights Reserved. Surveilling and/or reproducing others’ ChatGPT conversations is highly unethical and will result in legal and direct action if detected.
